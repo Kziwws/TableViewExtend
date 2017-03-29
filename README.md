@@ -17,5 +17,5 @@ return cellHight;
 三、效果图
 ![image](>效果图
 
-![image](https://github.com/Kziwws/ZoomImageView/blob/master/ZoomImageView/68e6be8c213b3995d327670906acd94f.gif)
+![image](https://github.com/Kziwws/TableViewExtend/blob/master/KziwwsTableViewExtend/d121de7dd2731a4de88025661acb342b.gif)
 )
