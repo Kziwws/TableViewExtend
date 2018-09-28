@@ -11,7 +11,7 @@ return cellHight;
 二、HUD 基础的文本展示
 调用方法 afterDelay为关闭的延时秒数
 ```Java
-[KziwwsTextIndicatorView showTextIndicatorViewMessage:@"这是Kziwws HUD,一个善良有梦想安静的程序员" afterDelay:0.5 isMaskGray:NO];
+[KziwwsTextIndicatorView showTextIndicatorViewMessage:@"这是Kziwws HUD" afterDelay:0.5 isMaskGray:NO];
 ```
 
 三、效果图
